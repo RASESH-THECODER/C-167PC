@@ -1,1 +1,1 @@
-# C-167PC
+# PRO-C167-Boilerplate
